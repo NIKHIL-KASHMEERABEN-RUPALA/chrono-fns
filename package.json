@@ -17,5 +17,11 @@
   "bugs": {
     "url": "https://github.com/NIKHIL-KASHMEERABEN-RUPALA/chrono-fns/issues"
   },
-  "homepage": "https://github.com/NIKHIL-KASHMEERABEN-RUPALA/chrono-fns#readme"
+  "homepage": "https://github.com/NIKHIL-KASHMEERABEN-RUPALA/chrono-fns#readme",
+  "devDependencies": {
+    "@vitest/coverage-v8": "^4.1.5",
+    "tsup": "^8.5.1",
+    "typescript": "^6.0.3",
+    "vitest": "^4.1.5"
+  }
 }
