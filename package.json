@@ -22,10 +22,9 @@
   "types": "./dist/index.d.ts",
   "files": ["dist"],
   "scripts": {
-    "build": "tsup",
-    "test": "vitest",
-    "prepublishOnly": "npm run build"
-  },
+  "build": "tsup",
+  "prepublishOnly": "npm run build"
+},
   "devDependencies": {
     "typescript": "^5.8.0",
     "tsup": "^8.0.0",
