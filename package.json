@@ -1,11 +1,11 @@
 {
-  "name": "chrono-fns",
+  "name": "kairos-fns",
   "version": "0.1.0",
   "description": "A useful utility library",
   "keywords": ["utility", "typescript"],
   "repository": {
     "type": "git",
-    "url": "https://github.com/NIKHIL-KASHMEERABEN-RUPALA/chrono-fns"
+    "url": "https://github.com/NIKHIL-KASHMEERABEN-RUPALA/kairos-fns"
   },
   "license": "MIT",
   "author": "Nikhil_Rupala",
